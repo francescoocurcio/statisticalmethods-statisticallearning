@@ -1,5 +1,5 @@
 # statisticalmethods-statisticallearning
-🧑🏼‍🏫 This repo contains a real academic project made for the Statistical Methods and Stastistical Learning course.
+🧑🏼‍🏫 This repo contains the academic project made for the Statistical Methods and Stastistical Learning course.
 
 💻 What has been made:
    - Searched and found the dataset;: https://archive.ics.uci.edu/dataset/551/gas+turbine+co+and+nox+emission+data+set;
