@@ -1,4 +1,4 @@
-# statisticalmethods-statisticallearning
+# Gas Turbine Energy Forecasting Project 
 🧑🏼‍🏫 This repository contains the academic project made for the Statistical Methods and Stastistical Learning course.
 
 💻 What has been made:
